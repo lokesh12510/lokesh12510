@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lokesh12510
 - 👀 I’m interested in Frontend Design & Development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on webapp design & development
 - 📫 How to reach me lokeshkrishna50@gmail.com
 
